@@ -10,8 +10,11 @@ The length of each edge in the graph is 6 units.
 ####Input Format
 
 The first line contains *T*, denoting the number of test cases.
+
 First line of each test case has two integers *N*, denoting the number of nodes in the graph and M, denoting the number of edges in the graph.
+
 The next *M* lines each consist of two space separated integers *x,y,* where *x* and *y* denote the two nodes between which the edge exists.
+
 The last line of a testcase has an integer *S*, denoting the starting position.
 
 ####Constraints
