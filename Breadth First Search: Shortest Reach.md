@@ -3,7 +3,7 @@ Given an undirected graph consisting of *N* nodes (labelled 1 to N) where a spec
 It is required to calculate the shortest distance from start position (Node S) to all of the other nodes in the graph.
 
 ####Note 1:
-If a node is unreachable , the distance is assumed as -1.
+If a node is unreachable, the distance is assumed as -1.
 ####Note 2:
 The length of each edge in the graph is 6 units.
 
