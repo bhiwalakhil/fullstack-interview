@@ -16,8 +16,11 @@ The last line of a testcase has an integer *S*, denoting the starting position.
 
 ####Constraints
 1 *<= T <=* 10
+
 2 *<= N <=* 1000
-1 *<= M <= (N * (N - 1))/2*
+
+1 *<= M <= (N * (N - 1)) / 2*
+
 1 *<= x,y,S <=* N
 
 
